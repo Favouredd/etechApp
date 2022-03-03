@@ -1,0 +1,2 @@
+# etechApp
+Explaining Shared lib
