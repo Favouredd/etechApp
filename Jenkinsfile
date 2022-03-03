@@ -1,2 +1,2 @@
 @Library('EUlineshared-library') _
-etechApp https://github.com/Favouredd/etechAp 
+etechApp https://github.com/Favouredd/etechApp 
